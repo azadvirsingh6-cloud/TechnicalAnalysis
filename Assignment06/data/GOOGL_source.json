@@ -1,0 +1,10 @@
+{
+  "symbol": "GOOGL",
+  "provider": "Yahoo Finance",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/GOOGL?period1=1735689600&period2=1767225600&interval=1d",
+  "retrieved_utc": "2026-11-01T22:08:23.702675+00:00",
+  "currency": "USD",
+  "requested_start": "2025-01-01",
+  "requested_end_exclusive": "2026-01-01",
+  "rows": 250
+}

@@ -1,0 +1,8 @@
+Actual browser verification performed November 1, 2026.
+PASS: Shiny app displayed candlestick chart and all indicator panels.
+PASS: Monthly selector changed displayed bars from 250 to 12.
+PASS: Fast/slow periods changed to 3 and 6; RSI changed to 3.
+PASS: Scaled RSI/MACD overlays appeared with explanatory caption.
+PASS: CSV download completed through the actual browser link; file has 12 rows.
+Screenshots: Dashboard_Daily.jpg and Dashboard_Monthly.jpg.
+AI-assisted checks; no claim of student manual testing.
